@@ -1,0 +1,832 @@
+1. CACM-3127.html: 1.1755296
+Thoth, a Portable Real-Time Operating System 
+
+Thoth isa real-time operating system which is designed to be portable
+over a large set of machines.  It is currently running on two minicomputers
+wit
+
+2. CACM-1461.html: 0.50642985
+Discussion Summary on Operating Systems
+
+CACM March, 1966
+
+CA660311 JB March 3, 1978  1:26 PM
+
+1461	5	1461
+1461	5	1461
+1461	5	1461
+
+3. CACM-3068.html: 0.40902123
+A Model for Verification of Data Security in Operating Systems
+
+Program verification applied to kernel architectures
+forms a promising method for providing 
+uncircumventably secure, shared compute
+
+4. CACM-2246.html: 0.3299833
+Levels of Language for Portable Software
+
+An increasing amount of software is being
+implemented in a portable form.  A popular way of 
+accomplishing this is to encode the software in a specially
+
+
+5. CACM-2111.html: 0.3230007
+Spelling Correction in Systems Programs
+
+Several specialized techniques are shown for efficiently
+incorporating spelling correction algorithms in
+to compilers and operating systems.  These include
+
+6. CACM-2069.html: 0.31651866
+Comments on a Paper by Wallace and Mason
+
+CACM April, 1970
+
+Heess Jr., W. F.
+
+page-on-demand, demand paging, time-sharing multiprogramming,
+Markovian computer models, scheduling strategies,
+op
+
+7. CACM-2319.html: 0.30766326
+Operating System Performance
+
+An overview of the current and future positions
+with respect to operating system performance 
+is given.  While a great deal of information and a large
+number of mode
+
+8. CACM-2740.html: 0.30766326
+A Large Semaphore Based Operating System
+
+The paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes.  The processes synchronize by
+means
+
+9. CACM-1462.html: 0.28890023
+Multilevel Operating Systems
+
+The Basic software for all newer computers
+is built on the well-established need for standard 
+operating systems. This implies that all applications-no
+matter how la
+
+10. CACM-1728.html: 0.28890023
+Further Experimental Data on the Behavior
+of Programs in a Paging Environment
+
+Results are summarized from an empirical study
+directed at the measurement of program operating 
+behavior in those m
+
+11. CACM-2597.html: 0.28045723
+Monitors: An Operating System Structuring Concept
+
+This paper develops Brinch-Hansen's concept of
+a monitor as a method of structuring an operating 
+system.  It introduces a form of synchronizatio
+
+12. CACM-2629.html: 0.28045723
+The UNIX Time-Sharing system 
+
+UNIX is a general-purpose, multi-user, interactive
+operating system for the Digital Equipment 
+Corporation PDP-11/40 and 11/45 computers.  It offers
+a number of fea
+
+13. CACM-1750.html: 0.2741132
+Considerations in the Design of a Multiple
+Computer System with Extended Core Storage
+
+The use of large quantities of addressable
+(but not executable) fast random access memory to 
+heighten the m
+
+14. CACM-2372.html: 0.26916727
+On the Implementation of Security Measures in Information Systems
+
+The security of an information system may be
+represented by a model matrix whose elements are 
+decision rules and whose row and c
+
+15. CACM-1247.html: 0.26857498
+An Operating Environment for Dynamic-Recursive
+Computer Programming Systems
+
+Presented in this paper is a brief nontechnical
+introduction to OEDIPUS, a computer programming 
+system which can serv
+
+16. CACM-2080.html: 0.26857498
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+
+17. CACM-2482.html: 0.26857498
+Mixed Solutions for the Deadlock Problem
+
+Mixtures of detection, avoidance, and prevention
+provide more effective and practical solutions 
+to the deadlock problem than any one of these alone.  The
+
+18. CACM-2867.html: 0.26857498
+Modularization and Hierarchy in a Family of Operating Systems
+
+This paper describes the design philosophy
+used in the construction of a family of operating 
+systems. It is shown that the concepts 
+
+19. CACM-2379.html: 0.26133278
+The Design of the Venus Operating System
+
+The Venus Operating System is an experimental
+multiprogramming system which supports five or 
+six concurrent users on a small computer.  The system was
+p
+
+20. CACM-1923.html: 0.25321493
+Pseudofiles
+
+An approach to system interfaces for high
+level languages using basic input/output support 
+facilities is described.  It is shown that this technique
+can provide potentially inexpens
+
+21. CACM-1680.html: 0.24681911
+A General-Purpose Display Processing and Tutorial System
+
+ADEPT (A display-Expedited Processing and Tutorial)
+system is described.  This system was designed 
+to improve man-computer communications
+
+22. CACM-2840.html: 0.24135262
+Protection in Operating Systems
+
+A model of protection mechanisms in computing
+systems is presented and its appropriateness 
+is argued.  The "safety" problem for protection systems
+under this mod
+
+23. CACM-3025.html: 0.24135262
+The Evolution of the DEC system 10
+
+The DEC system 10, also known as the PDP-10, evolved
+from the PDP-6 (circa 1963) over five generations 
+of implementations to presently include systems covering
+
+24. CACM-2621.html: 0.23838985
+A High Security Log-in Procedure
+
+The protection of time sharing systems from
+unauthorized users is often achieved by the use 
+of passwords.  By using one-way ciphers to code the passwords,
+the r
+
+25. CACM-2378.html: 0.23371433
+An Operating System Based on the Concept of a Supervisory Computer
+
+An operating system which is organized as a
+small supervisor and a set of independent processes 
+are described.  The supervisor 
+
+26. CACM-2541.html: 0.23371433
+An Overview of the ISPL Computer System Design
+
+This paper explores the advantages of the concurrent
+design of the language, operating system, 
+and machine (via microcode) to create an interactive
+
+27. CACM-2632.html: 0.23371433
+HYDRA: The Kernel of a Multiprocessor Operating System
+
+This paper describes the design philosophy of
+HYDRA-the kernel of an operating system for C.mmp, 
+the Carnegie-Mellon Multi-Mini-Processor. 
+
+28. CACM-1747.html: 0.23342077
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  Thr
+
+29. CACM-2317.html: 0.23112017
+Programming Systems and Languages 1965-1975
+
+In spite of impressive gains by PL/I, Fortran
+and Cobol remain the languages in which most 
+of the world's production programs are written and will
+re
+
+30. CACM-2424.html: 0.22735322
+Dynamic Verification of Operating System Decisions
+
+Dynamic verification of a decision implies
+that every time the decision is made there is a 
+consistency check performed on the decision using in
+
+31. CACM-2138.html: 0.22647284
+BLISS: A Language for Systems Programming
+
+A language, BLISS, is described.  This language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specif
+
+32. CACM-2151.html: 0.22647284
+User Program Measurement in a Time-Shared Environment
+
+A general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring use
+
+33. CACM-1751.html: 0.2238125
+The Working Set Model for Program Behavior
+
+Probably the most basic reason behind the absence
+of a general treatment of resource allocation 
+in modern computer systems is an adequate model for
+pr
+
+34. CACM-2320.html: 0.2238125
+Structured Multiprogramming
+
+This paper presents a proposal for structured
+representation of multiprogramming in a high 
+level language.  The notation used explicitly associates
+a data structure 
+
+35. CACM-2950.html: 0.2238125
+A Unifying Approach to Scheduling
+
+This paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  
+
+36. CACM-3196.html: 0.22226858
+The Reactive Typewriter Program
+
+   84-character keyboard including alphabetical upper and lower case for good
+readability. If the machine is restricted to only a single case, the lower case
+is pr
+
+37. CACM-3174.html: 0.22156307
+Password Security: A Case History
+
+This paper describes the history of the design of the password
+security scheme on a remotely accessed time-sharing system.
+The present design was the result of c
+
+38. CACM-1930.html: 0.21998885
+Extremely Portable Random Number Generator
+
+Extremely portable subroutines are sometimes
+needed for which moderate quality and efficiency 
+suffice.  Typically, this occurs for library functions
+(
+
+39. CACM-1226.html: 0.21734169
+The Organization of Structured Files
+
+A data file is an integral part of a data processing
+system.  In many systems, the selection 
+of an organization for the data within the file can
+be critical
+
+40. CACM-3141.html: 0.21734169
+An Improved Algorithm for Decentralized Extrema-Finding
+in Circular Configurations of Processes
+
+This note presents an improvement to LeLann's
+algorithm for finding the largest (or smallest) of a 
+
+41. CACM-1324.html: 0.21344522
+Answering English questions by Computer: A Survey
+
+Fifteen experimental English language question-answering
+systems which are programmed and operating 
+are described and reviewed.  The systems ran
+
+42. CACM-1951.html: 0.21344522
+Estimates of Distributions of Random Variables
+for Certain Computer Communications Traffic Models
+
+A study of multiaccess computer communications has
+characterized the distributions underlying an 
+
+43. CACM-2522.html: 0.21344522
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+
+The behavior of a computer system is largely
+dependent upon the algorithms employed to allocate 
+the system resources to the
+
+44. CACM-1236.html: 0.20095375
+The SMART Automatic Document Retrieval System-An Illustration
+
+A fully automatic document retrieval system
+operating on the IBM 7094 is described.  The system 
+is characterized by the fact that se
+
+45. CACM-1752.html: 0.20095375
+Resource Management for a Medium Scale Time-Sharing Operating system
+
+Task scheduling and resource balancing for
+a medium size virtual memory paging machine are 
+discussed in relation to a combine
+
+46. CACM-2777.html: 0.20095375
+On a Solution to the Cigarette Smoker's
+Problem (Without Conditional Statements)
+
+This report discusses a problem first introduced
+by Patil, who has claimed that the cigarette 
+smoker's problem c
+
+47. CACM-0322.html: 0.1986582
+Operational Compatibility of Systems-CONVENTIONS
+
+The General Standards Committee of the SHARE
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently in
+
+
+48. CACM-2624.html: 0.1986582
+Formal Requirements for Virtualizable Third Generation Architectures
+
+Virtual machine systems have been implemented
+on a limited number of third generation computer 
+systems, e.g. CP-67 on the IBM
+
+49. CACM-3026.html: 0.1986582
+The Evolution of the Sperry Univac 1100
+Series: A His tory, Analysis, and Projection
+
+The 1100 series systems are Sperry Univac's
+large-scale main frame computer systems.  Beginning 
+with the 110
+
+50. CACM-2358.html: 0.1930821
+The Multics Virtual Memory: Concepts and Design
+
+As experience with use of on-line operating
+systems has grown, the need to share information 
+among system users has become increasingly apparent.
+
+51. CACM-2374.html: 0.18991122
+A Study of Storage Partitioning Using a Mathematical Model of Locality
+
+Both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  The storage requi
+
+52. CACM-3137.html: 0.18991122
+A Methodology for the Design of Distributed Information Systems
+
+A macro model of a distributed information system in presented.  The model
+describes the major costs of using an information
+system
+
+53. CACM-2036.html: 0.18111807
+An Interactive Command Generating Facility
+
+A facility to permit conversationally controlled tasks
+to be executed in a noninteractive environment is proposed.
+A means by which programs can generat
+
+54. CACM-3028.html: 0.18111807
+The Manchester Mark I and Atlas: A His torical Perspective
+
+In 30 years of computer design at Manchester University
+two systems stand out: the Mark I (developed 
+over the period 1946-49) and the A
+
+55. CACM-2184.html: 0.160763
+On the Meaning of Names in Programming Systems
+
+It is assumed that there is a similarity of
+function between the data names of a programming 
+language and the file names of an operating system.
+ 
+
+56. CACM-2297.html: 0.160763
+A Model of Memory Contention in a Paging Machine
+
+This paper is concerned with certain aspects of contention
+for main memory resources in a multiprogrammed 
+computer system operating under demand 
+
+57. CACM-2622.html: 0.160763
+A User Authentication Scheme Not Requiring Secrecy in the Computer
+
+In many computer operating systems a user authenticates
+himself by entering a secret password 
+known solely to himself and the s
+
+58. CACM-1892.html: 0.15892656
+Degree of Multiprogramming in Page-on-Demand Systems
+
+A simple stochastic model is described which
+offers a base for understanding the relationship 
+between the number of programs permitted to sha
+
+59. CACM-2625.html: 0.15892656
+Capability-Based Addressing
+
+Various addressing schemes making use of segment
+tables are examined.  The inadequacies of 
+these schemes when dealing with shared addresses are
+explained. These inad
+
+60. CACM-0696.html: 0.15825933
+An Automatic Data Acquisition and Inquiry System Using Disk Files
+
+Lockheed Missiles and Space Company has installed
+a large-scale Automatic Data Acquisition 
+(ADA) system which ties together the 
+
+61. CACM-1647.html: 0.15825933
+WATFOR-The University of Waterloo FORTRAN IV Compiler
+
+WATFOR is an in-core, load-and-go compiler
+which has been implemented within the IBM 7040/44 
+operating system.  FORTRAN IV was selected as t
+
+62. CACM-2095.html: 0.15825933
+Measurements of Segment Size
+
+Distributions of segment sizes measured under routine operating con
+ditions on a computer system which utilizes variable sized segments
+(the Burroughs B5500) are disc
+
+63. CACM-2582.html: 0.15825933
+Improving Locality by Critical Working Sets
+
+A new approach to program locality improvement
+via restructuring is described.  The method 
+is particularly suited to those systems where primary memor
+
+64. CACM-2972.html: 0.15825933
+Proof Techniques for Hierarchically Structured Programs
+
+A method for describing and structuring programs
+that simplifies proofs of their correctness 
+is presented.  The method formally represents
+
+65. CACM-3006.html: 0.15825933
+Anomalies with Variable Partition Paging Algorithms
+
+Five types of anomalous behavior which may
+occur in paged virtual memory operating systems 
+a redefined.  One type of anomaly, for example, con
+
+66. CACM-3050.html: 0.15825933
+Systems Design Education: A Gaming Approach
+
+One of the problems facing managers of computer
+installations is the problem of configuring 
+the computer system to meet the demands made by the
+mix o
+
+67. CACM-3105.html: 0.15825933
+A Language Extension for Expressing Constraints on Data Access
+
+Controlled sharing of information is needed and
+desirable for many applications and is supported 
+in operating systems by access con
+
+68. CACM-1069.html: 0.14430283
+A Method for Comparing the Internal Operating Speeds of Computers
+
+CACM May, 1964
+
+Raichelson, E.
+Collins, G.
+
+CA640520 JB March 9, 1978  11:35 PM
+
+1069	5	1069
+1069	5	1069
+1069	5	1069
+1653
+
+69. CACM-1755.html: 0.14430283
+Proceedings of the ACM Symposium on Operating system Principles
+
+CACM May, 1968
+
+ACM Special Interest Committee
+
+CA680501 JB February 23, 1978  9:56 AM
+
+1755	5	1755
+1755	5	1755
+1755	5	1755
+
+70. CACM-2796.html: 0.14430283
+Monitors: An Operating System Structuring Concept (Corrigendum)
+
+CACM February, 1975
+
+Hoare, C. A. R. 
+
+CA750203 JB January 12, 1978  8:45 AM
+
+2796	5	2796
+2796	5	2796
+2796	5	2796
+2866	5	279
+
+71. CACM-1517.html: 0.12660746
+Methods for Analyzing Data from Computer Simulation Experiments
+
+This paper addresses itself to the problem of
+analyzing data generated by computer simulations 
+of economic systems.  We first turn
+
+72. CACM-1810.html: 0.12660746
+Is Automatic "Folding" of Programs Efficient Enough To Displace Manual?
+
+The operation of "folding" a program into
+the available memory is discussed.  Measurements 
+by Brown et al. and by Nelson o
+
+73. CACM-1854.html: 0.12660746
+On Multiprogramming, Machine Coding, and Computer Organization
+
+The author feels that the interrupt feature
+which is available in most modern computers is 
+a potent source of programming pitfalls 
+
+74. CACM-1877.html: 0.12660746
+Prevention of System Deadlocks
+
+A well-known problem in the design of operating
+systems is the selection of a resource allocation 
+policy that will prevent deadlock.  Deadlock is the
+situation in
+
+75. CACM-2342.html: 0.12660746
+Interference Between Communicating Parallel Processes
+
+Various kinds of interference between communicating
+parallel processes have been examined by 
+Dijkstra, Knuth, and others.  Solutions have be
+
+76. CACM-2535.html: 0.12660746
+The Effects of Multiplexing on a Computer-Communications System
+
+A study is made of the way in which asynchronous
+time division multiplexing changes the stochastic 
+nature of the arrival process f
+
+77. CACM-2542.html: 0.12660746
+A Software Design and Evaluation System
+
+A critical failure of current software system
+design and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before 
+
+78. CACM-2849.html: 0.12660746
+Ethernet: Distributed Packet Switching for Local Computer Networks
+
+Ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed computing st
+
+79. CACM-3002.html: 0.12660746
+A Record and File Partitioning Model
+
+One of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  This paper presents a model in which
+several
+
+80. CACM-1050.html: 0.10307345
+A Parts Breakdown Technique Using List Structures
+
+List structured parts breakdown is proposed
+and discussed.  Implementation facts are presented 
+on operating program using these techniques.
+
+C
+
+81. CACM-1472.html: 0.10203751
+Description of a High Capacity, Fast
+Turnaround University Computing Center
+
+The operating system for the UNIVAC 1107 at Case
+Institute is reviewed.  The system is of interest 
+because of the low
+
+82. CACM-1591.html: 0.092191696
+A Model for a Multifunctional Teaching System
+
+A teaching system model that was incorporated
+into an operating system of a large computer 
+is described.  The model transferred control to the
+oper
+
+83. CACM-2357.html: 0.08926423
+MUX, a Simple Approach to On-Line Computing
+
+An on-line system operating as part of a normal
+batch system for the CDC 6600 computer is described. 
+ The system, which required one man-year for init
+
+84. CACM-2868.html: 0.08926423
+Reflections on an Operating System Design
+
+The main features of a general purpose multiaccess
+operating system developed for the CDC 6400 
+at Berkeley are presented, and its good and bad points ar
+
+85. CACM-2920.html: 0.08926423
+Game Interpretation of the Deadlock Avoidance Problem
+
+The deadlock avoidance problem may be defined
+informally as the determination, from some a 
+priori information about the processes, resources
+
+86. CACM-0018.html: 0.08829741
+Simple Automatic Coding Systems
+
+CACM July, 1958
+
+Adams, E. S.
+Schlesinger, S. I.
+
+CA580701 JB March 22, 1978  9:06 PM
+
+18	5	18
+18	5	18
+18	5	18
+
+87. CACM-0025.html: 0.08829741
+General Purpose Programming Systems
+
+CACM May, 1958
+
+Holt, A. W.
+
+CA580503 JB March 22, 1978  9:14 PM
+
+25	5	25
+25	5	25
+25	5	25
+
+88. CACM-0597.html: 0.08829741
+Modular Data Processing Systems Written in COBOL
+
+CACM May, 1962
+
+Emery, J. C.
+
+CA620508 JB March 20, 1978  1:47 PM
+
+597	5	597
+597	5	597
+597	5	597
+
+89. CACM-0652.html: 0.08829741
+Use of Semantic Structure in Information Systems
+
+CACM January, 1962
+
+Sable, J. D.
+
+CA620107 JB March 20, 1978  4:37 PM
+
+1324	5	652
+652	5	652
+652	5	652
+652	5	652
+634	6	652
+652	6	652
+653	
+
+90. CACM-1360.html: 0.08829741
+Description of Systems Used for Data Transmission* (An ASA Tutorial)
+
+CACM October, 1966
+
+CA661007 JB March 2, 1978  3:54 PM
+
+1360	5	1360
+1360	5	1360
+1360	5	1360
+
+91. CACM-1464.html: 0.08746072
+An ALGOL Compiler: Construction and Use
+in Relation to an Elaborate Operating System
+
+An ALGOL translator has been prepared and integrated
+into the IBSYS Operating System.  Assembly 
+and "go" fea
+
+92. CACM-2311.html: 0.08637957
+A Generational Perspective of Information System Development
+
+System development is categorized from a generational
+point of view that parallels the commonly 
+described computing system generation
+
+93. CACM-2407.html: 0.08637957
+Curriculum Recommendations for Undergraduate
+Programs in Information Systems
+
+The need for education related to information
+systems in organizations is discussed, and a 
+curriculum is proposed fo
+
+94. CACM-2345.html: 0.08110635
+Curriculum Recommendations for Graduate
+Professional Programs in Information Systems
+
+The need for education related to information
+systems in organizations is discussed, and a 
+curriculum is pro
+
+95. CACM-2583.html: 0.07804462
+Guidelines for Humanizing Computerized Information
+Systems: A Report from Stanley House
+
+CACM November, 1974
+
+Sterling, T. D.
+
+humanization, social implication, management, information
+systems
+
+96. CACM-0238.html: 0.07726023
+Simulation and Analysis of Biochemical Systems
+
+CACM December, 1961
+
+Garfinkel, D.
+Rutledge, J. D.
+Higgins, J. J.
+
+CA611212 JB March 15, 1978  10:09 PM
+
+238	4	238
+238	4	238
+633	4	238
+643	
+
+97. CACM-0651.html: 0.07726023
+A Survey of Languages and Systems for Information Retrieval
+
+CACM January, 1962
+
+Grems, M.
+
+CA620108 JB March 20, 1978  4:36 PM
+
+651	5	651
+651	5	651
+651	5	651
+
+98. CACM-0795.html: 0.07726023
+Debugging Systems at the Source Language Level
+
+CACM August, 1963
+
+Ferguson, H. E.
+Berner, E.
+
+CA630803 JB March 13, 1978  8:46 PM
+
+1046	4	795
+1105	4	795
+1139	4	795
+1140	4	795
+1234	4	795
+
+99. CACM-1912.html: 0.07726023
+Simulation of Outpatient Appointment Systems
+
+An experimental computer program is described
+which simulates appointment systems employed 
+by outpatient departments of hospitals.  Both major kinds
+
+100. CACM-2690.html: 0.07726023
+A Numbering Systems for Combinations
+
+CACM January, 1974
+
+Knott, G. D.
+
+combinatorics, coding system, storage mapping function
+
+4.9 5.30
+
+CA740109 JB January 18, 1978  1:42 PM
+
+2690	4	2690
+

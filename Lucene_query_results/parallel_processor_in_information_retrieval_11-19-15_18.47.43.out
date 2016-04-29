@@ -1,0 +1,850 @@
+1. CACM-2967.html: 0.7082254
+A Comparison of Hardware and Software Associative
+Memories in the Context of Computer Graphics
+
+The Associative Processing of Line Drawings (APLD)
+System utilizes a hardware associative memory 
+a
+
+2. CACM-0634.html: 0.5461165
+Manipulation of Trees in Information Retrieval*
+
+CACM February, 1962
+
+Salton, G.
+
+CA620209 JB March 20, 1978  3:44 PM
+
+1087	4	634
+634	4	634
+931	5	634
+1324	5	634
+329	5	634
+634	5	634
+634	5
+
+3. CACM-2973.html: 0.5330611
+Sorting on a Mesh-Connected Parallel Computer
+
+Two algorithms are presented for sorting n^2
+elements on an n X n mesh-connected processor 
+array that require O(n) routing and comparison steps.
+ T
+
+4. CACM-1811.html: 0.51177335
+A Case Study in Programming for Parallel-Processors
+
+An affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficie
+
+5. CACM-0891.html: 0.41518122
+Everyman's Information Retrieval System
+
+The information retrieval problem whose solution
+is presented here was posed by a technical 
+library with limited bubget and personnel.  The solution,
+how
+
+6. CACM-2530.html: 0.40958735
+An Algorithm for Extracting Phrases in
+a Space-Optimal Fashion [Z] (Algorithm A444)
+
+CACM March, 1973
+
+Wagner, R. A.
+
+information retrieval, coding, text compression
+
+3.70 5.6
+
+CA730309 JB 
+
+7. CACM-2965.html: 0.40958735
+An Optimal Evaluation of Boolean Expressions in an Online Query System
+
+CACM May, 1977
+
+Hanani, M. Z.
+
+query, Boolean expression, information retrieval, file organization
+
+3.5 3.70 3.74
+
+CA7
+
+8. CACM-2976.html: 0.40958735
+Approximating Block Accesses in Database Organizations
+
+CACM April, 1977
+
+Yao, S. B.
+
+database, inverted file organization, database performance
+and measurement, information retrieval, 
+query 
+
+9. CACM-3168.html: 0.40958735
+Comment on "An Optimal Evaluation of Boolean
+Expressions in an Online Query System."
+
+CACM October, 1979
+
+Laird, P.
+
+Query, Boolean expression, information retrieval, file organization
+
+3.53.
+
+10. CACM-2288.html: 0.40007916
+File Organization: The Consecutive Retrieval Property
+
+The consecutive retrieval property is an important
+relation between a query set and record 
+set.  Its existence enables the design of an info
+
+11. CACM-1927.html: 0.38666227
+Information Science in a Ph. Computer Science Program
+
+This report contains recommendations on a sample course
+curriculum in the general area of information 
+organization and information system de
+
+12. CACM-2278.html: 0.37855646
+On Foster's Information Storage and Retrieval Using AVL Trees
+
+CACM September, 1972
+
+Tan, K. C.
+
+binary trees, search trees, information storage, information retrieval
+
+3.70 3.73 3.74
+
+CA720
+
+13. CACM-2838.html: 0.35851765
+Analysis of an Algorithm for Real Time Garbage Collection
+
+A real time garbage collection system avoids
+suspending the operations of a list processor 
+for the long times that garbage collection no
+
+14. CACM-2882.html: 0.35653657
+A Stochastic Evaluation Model for Database
+Organization in Data Retrieval Systems
+
+Experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty 
+
+15. CACM-1457.html: 0.35578042
+Data Manipulation and Programming Problems
+in Automatic Information Retrieval
+
+Automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, includ
+
+16. CACM-2140.html: 0.35020137
+Retrieval-Update Speed Tradeoffs Using Combined Indices
+
+In a paper in the November 1970 Communications
+of the ACM, V. Y. Lum introduced a technique 
+of file indexing named combined indices.  This
+
+17. CACM-1699.html: 0.34822118
+Experimental Evaluation of Information
+Retrieval Through a Teletypewriter
+
+Experiments designed to evaluate the capabilities
+of mechanized information retrieval systems, 
+with emphasis on interac
+
+18. CACM-1601.html: 0.34366482
+Parallel Numerical Methods for the Solution of Equations
+
+Classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in qu
+
+19. CACM-3169.html: 0.34132278
+Note on "An Optimal Evaluation of Boolean Expressions 
+in an Online Query System."
+
+CACM October, 1979
+
+Gudes, E.
+Hoffman, A.
+
+Query, Boolean expression, optimal evaluation, information retrie
+
+20. CACM-2516.html: 0.3396688
+Hierarchical Storage in Information Retrieval
+
+A probabilistic analysis is employed to determine
+the effect of hierarchical storage organizations 
+on information retrieval operations.  The data st
+
+21. CACM-1935.html: 0.3378923
+Randomized Binary Search Technique
+
+A mathematical model is developed for the mean
+and variance of the number of trials to recover 
+a given document in a randomly received list of files.
+ The sea
+
+22. CACM-2519.html: 0.32636416
+On the Problem of Communicating Complex Information
+
+The nature of the difficulty involved in communicating
+mathematical results between scientists 
+using a computer based information retrieval sy
+
+23. CACM-3012.html: 0.32482263
+The Use of an Interactive Information Storage
+and Retrieval System in Medical Research
+
+This paper presents the results of a study
+of the use of an interactive computerized storage 
+and retrieval
+
+24. CACM-1681.html: 0.31271085
+Easy English,a Language for Information
+Retrieval Through a Remote Typewriter Console
+
+Easy English is a natural command language
+designed to simplify communication between man and 
+machine throu
+
+25. CACM-2114.html: 0.3120005
+A Formal System for Information Retrieval from Files
+
+A generalized file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding,
+
+26. CACM-2175.html: 0.30691025
+Subexpression Ordering in the Execution of Arithmetic Expressions
+
+An arithmetic expression can often be broken
+down into its component subexpressions.  Depending 
+on the hardware environment in w
+
+27. CACM-1830.html: 0.30682305
+Retrieval Times for a Packed Direct Access Inverted File
+
+CACM October, 1969
+
+Bayes, A. J.
+
+information retrieval, direct access memory, data base, inverted list
+
+3.70 4.41
+
+CA691016 JB Febr
+
+28. CACM-2865.html: 0.29916105
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+
+An axiomatic method for proving a number
+of properties of parallel programs is presented.  
+Hoare has given a set of axioms for pa
+
+29. CACM-1937.html: 0.29438117
+CODAS: A Data Display System
+
+CODAS, a Customer Oriented Data System, is
+a user-oriented data retrieval and display system. 
+ The command language of the system provides the user
+with an easy mea
+
+30. CACM-0275.html: 0.28660002
+Dynamic Storage Allocation for an Information Retrieval System
+
+CACM October, 1961
+
+Sams, B. H.
+
+CA611006 JB March 16, 1978  12:58 PM
+
+275	5	275
+275	5	275
+275	5	275
+
+31. CACM-0651.html: 0.28660002
+A Survey of Languages and Systems for Information Retrieval
+
+CACM January, 1962
+
+Grems, M.
+
+CA620108 JB March 20, 1978  4:36 PM
+
+651	5	651
+651	5	651
+651	5	651
+
+32. CACM-2070.html: 0.28660002
+A Formal System for Information Retrieval from Files
+
+CACM April, 1970
+
+Hsiao, D.
+Harary, F.
+
+CA700414 JB February 13, 1978  2:37 PM
+
+2070	5	2070
+2070	5	2070
+2070	5	2070
+
+33. CACM-2990.html: 0.28351814
+Effective Information Retrieval Using Term Accuracy
+
+The performance of information retrieval systems
+can be evaluated in a number of different 
+ways.  Much of the published evaluation work is bas
+
+34. CACM-1675.html: 0.27305824
+A Note on a Relevance Estimate and Its Improvement
+
+In this paper the effect of iterating the improvement
+procedure is examined.  It is shown that 
+applications of the improvement factor beyond th
+
+35. CACM-2645.html: 0.27148092
+Two Languages for Estimating Program Efficiency
+
+Two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ The program whose efficiency one wishes to esti
+
+36. CACM-2723.html: 0.26939452
+Multiprocessing Compactifying Garbage Collection
+
+Algorithms for a multiprocessing compactifying
+garbage collector are presented and discussed. 
+ The simple case of two processors, one performing 
+
+37. CACM-2497.html: 0.26721078
+Synchronizing Processors with Memory-Content-Generated Interrupts
+
+Implementations of the "Lock-Unlock" method
+of synchronizing processors in a multiprocessor 
+system usually require uninterruptab
+
+38. CACM-2307.html: 0.2662603
+Dynamic Document Processing
+
+The current role of computers in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the
+
+39. CACM-1846.html: 0.26329422
+On Simulating Networks of Parallel Processes
+in Which Simultaneous Events May Occur
+
+Some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional d
+
+40. CACM-2455.html: 0.26295358
+A Generalization of AVL Trees
+
+A generalization of AVL trees is proposed in
+which imbalances up to (triangle shape) is a small 
+integer.  An experiment is performed to compare these
+trees with st
+
+41. CACM-1725.html: 0.2572509
+A Simple Proof of Lewin's Ordered-Retrieval
+Theorem for Associative Memories
+
+An efficient method of ordered retrieval of binary
+words from an associative memory, as described
+by Lewin, is based 
+
+42. CACM-1032.html: 0.25681505
+Theoretical Considerations in Information Retrieval Systems
+
+Information storage and retrieval systems are composed
+of three major components: (a) identification 
+of information and tagging it for
+
+43. CACM-2631.html: 0.25681505
+An Information-Theoretic Approach to
+Text Searching in Direct Access Systems
+
+Using direct access computer files of bibliographic
+information, an attempt is made to overcome 
+one of the problems 
+
+44. CACM-1959.html: 0.2559755
+An Interrupt Based Organization for Management Information Systems
+
+A programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of l
+
+45. CACM-1359.html: 0.25542647
+Data Filtering Applied to Information Storage and Retrieval Applications
+
+Manipulation of data strings is the most complex
+processing function in information storage 
+and retrieval applications.  
+
+46. CACM-2947.html: 0.2553496
+SITAR: An Interactive Text Processing System for Small Computers
+
+SITAR, a low-cost in teractive text handling
+and text analysis system for nontechnical users, 
+is in many ways comparable to in te
+
+47. CACM-1236.html: 0.2507608
+The SMART Automatic Document Retrieval System-An Illustration
+
+A fully automatic document retrieval system
+operating on the IBM 7094 is described.  The system 
+is characterized by the fact that se
+
+48. CACM-2711.html: 0.2507608
+A Vector Space Model for Automatic Indexing
+
+In a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming pattern
+
+49. CACM-1747.html: 0.24959369
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  Thr
+
+50. CACM-1613.html: 0.24941622
+One-Pass Compilation of Arithmetic Expressions for a Parallel Processor
+
+Under the assumption that a processor may have
+a multiplicity of arithmetic units, a compiler 
+for such a processor should 
+
+51. CACM-0239.html: 0.24565716
+Inefficiency of the Use of Boolean Functions
+for Information Retrieval Systems
+
+CACM December, 1961
+
+Verhoeff, J.
+Goffman, W.
+Belzer, J.
+
+CA611211 JB March 15, 1978  10:10 PM
+
+239	5	239
+23
+
+52. CACM-0292.html: 0.24565716
+An Information Retrieval Language for Legal Studies
+
+CACM September, 1961
+
+Kehl, W. B.
+Horty, J. F.
+Bacon, C. R. T.
+Mitchell, D. S.
+
+CA610902 JB March 16, 1978  9:51 PM
+
+292	5	292
+292	5	29
+
+53. CACM-1831.html: 0.24565716
+A Comment on Optimal Tree Structures
+
+CACM October, 1969
+
+Stanfel, L. E.
+
+information retrieval, file searching, tree structures, double chaining
+
+3.70 3.73 3.74
+
+CA691015 JB February 15, 19
+
+54. CACM-2532.html: 0.24565716
+On Harrison's Substring Testing Technique
+
+CACM March, 1973
+
+Bookstein, A.
+
+string, substring, hashing, information storage and retrieval
+
+3.74 5.30 5.5
+
+CA730307 JB January 24, 1978  10:30 
+
+55. CACM-2561.html: 0.24531764
+A Heuristic Approach to Inductive Inference in Fact Retrieval Systems
+
+Heuristic procedures are presented which have
+been developed to perform inferences by generalizing 
+from available informatio
+
+56. CACM-2032.html: 0.23892593
+File Structures Using Hashing Functions
+
+A general method of file structuring is proposed which uses a hashing
+function to define tree structure.  Two types of such trees are examined, 
+and their 
+
+57. CACM-2493.html: 0.23892593
+Optimum Data Base Reorganization Points
+
+In certain data base organization schemes the
+cost per access may increase due to structural 
+inefficiencies caused by updates.  By reorganizing
+the data 
+
+58. CACM-1960.html: 0.23832633
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+
+The main design principles of the multiaccess system ESOPE are described.
+Emphasis is placed on basic ideas underlying the d
+
+59. CACM-2575.html: 0.23623443
+The Best-Match Problem in Document Retrieval
+
+CACM November, 1974
+
+Van Rijsbergen, C. J.
+
+document retrieval, best match, clustering, file
+searching, matching, dissimilarity, hierarchy, 
+class
+
+60. CACM-1976.html: 0.23291053
+Multi-attribute Retrieval with Combined Indexes
+
+In this paper a file organization scheme designed to
+replace the use of the popular secondary index filing scheme
+(or inverted files on secondary k
+
+61. CACM-2714.html: 0.2318515
+Merging with Parallel Processors
+
+Consider two linearly ordered sets A, B, |A|=m,
+|B|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously.  The paper presents an algorithm
+for mergin
+
+62. CACM-2846.html: 0.23022163
+Compressed Tries
+
+This paper presents a new data structure,
+called a compressed trie or C-trie, to be used in 
+information retrieval systems.  It has the same underlying
+m-ary tree structure as a
+
+63. CACM-1788.html: 0.22707391
+Toward a General Processor for Programming Languages
+
+Many efforts have been made to develop a better
+way of implementing a higher level programming 
+language than by the construction of a whole n
+
+64. CACM-3134.html: 0.22261603
+The Use of Normal Multiplication Tables
+for Information Storage and Retrieval
+
+This paper describes a method for the organization and retrieval of attribute 
+based information systems, using the n
+
+65. CACM-2896.html: 0.22205634
+An Exercise in Proving Parallel Programs Correct
+
+A parallel program, Dijkstra's on-the-fly garbage
+collector, is proved correct using a proof 
+method developed by Owicki.  The fine degree of in t
+
+66. CACM-2160.html: 0.22039233
+Canonical Structure in Attribute Based File Organization
+
+A new file structure for attribute based retrieval
+is proposed in this paper.  It allows queries 
+involving arbitrary Boolean functions of
+
+67. CACM-1367.html: 0.21977878
+Character Structure and Character Parity Sense
+for Parallel-by-Bit Data Communication in ASCII* 
+(Proposed American Standard)
+
+CACM September, 1966
+
+CA660912 JB March 2, 1978  4:26 PM
+
+1367	4	
+
+68. CACM-1711.html: 0.21719776
+When Your Computer Needs a Lawyer
+
+Possible liability for negligence, for other
+torts (such as slander of credit) and for liability 
+under theories of express or implied warranty (guarantees)
+are
+
+69. CACM-2795.html: 0.21719776
+Sentence Paraphrasing from a Conceptual Base
+
+A model of natural language based on an underlying
+language-free representation of meaning 
+is described.  A program based on this model is able
+to p
+
+70. CACM-1262.html: 0.21610773
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+
+Two statements are suggested which allow a programmer
+writing in a procedure-oriented language 
+to indicate sections of pr
+
+71. CACM-0440.html: 0.20856614
+Record Linkage
+
+Special difficulties are encountered in devising
+reliable systems for searching and updating 
+any large files of documents that must be identified
+primarily on the basis of names 
+
+72. CACM-1652.html: 0.20711954
+A Code for Non-numeric Information Processing
+Applications in Online Systems
+
+A code has been specifically designed to simplify
+the internal information processing operations 
+within an online co
+
+73. CACM-1514.html: 0.20635842
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems
+
+A file adjustment procedure based on maximizing
+the Bayes expected gain proposed for matched 
+term retrieval systems.  The expe
+
+74. CACM-1828.html: 0.20607825
+Synchronization in a Parallel-Accessed Data Base
+
+The following problem is considered:  Given
+a data base which can be manipulated simultaneously 
+by more than one process, what are the rules for 
+
+75. CACM-2141.html: 0.20479368
+Algorithmic Selection of the Best
+Method for Compressing Map Data Strings
+
+The best of a dozen different methods for
+compressing map data is illustrated.  The choices 
+are generated by encoding d
+
+76. CACM-2543.html: 0.20479368
+Reducing the Retrieval Time of Scatter Storage Techniques
+
+A new method for entering and retrieving information
+in a hash table is described.  The method 
+is intended to be efficient if most entri
+
+77. CACM-2412.html: 0.2047143
+Comment on Brent's Scatter Storage Algorithm
+
+CACM November, 1973
+
+Feldman, J. A.
+Low, J. R.
+
+Hashing, information storage and retrieval,
+scatter storage, searching, symbol table
+
+3.7 3.73 3
+
+78. CACM-2552.html: 0.2047143
+A Note on When To Chain Overflow Items Within a Direct-Access Table
+
+CACM January, 1973
+
+Bays, C.
+
+hash code, open hash, chaining, information retrieval, collision
+
+3.7 4.9
+
+CA730109 JB Janu
+
+79. CACM-2781.html: 0.2047143
+The Algorithm Sequential Access Method:
+An Alternative to Index Sequential
+
+CACM March, 1975
+
+Whitt, J. D.
+Sullenberger, A. G.
+
+keys, direct access method, sequential access
+method, randomizi
+
+80. CACM-1456.html: 0.20312296
+Storage and Retrieval of Aspects of Meaning in Directed Graph Structures
+
+An experimental system that uses LISP to make
+a conceptual dictionary is described.  The dictionary 
+associates with each 
+
+81. CACM-2623.html: 0.20312296
+A New Technique for Compression and Storage of Data
+
+The widespread tendency toward storage of
+large programs and blocks off text has produced a 
+need for efficient methods of compressing and stor
+
+82. CACM-2484.html: 0.202765
+A Note on Information Organization and Storage
+
+Since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a dat
+
+83. CACM-3135.html: 0.20197439
+Detection of Three-Dimensional Patterns of Atoms in Chemical Structures
+
+An algorithm for detecting occurrences of a three-dimensional pattern of
+objects within a larger structure is presented.  Th
+
+84. CACM-2451.html: 0.20110689
+Design of Tree Structures for Efficient Querying
+
+A standard information retrieval operation is
+to determine which records in a data collection 
+satisfy a given query expressed in terms of data va
+
+85. CACM-2722.html: 0.19743586
+Multidimensional Binary Search Trees Used for Associative Searching
+
+This paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) a
+
+86. CACM-1108.html: 0.19457446
+Digital Data Processor for Tracking the Partially Illuminated Moon*
+
+A study of lunar tracking techniques and fabrication
+of a breadboard to assess the feasibility 
+of the best technique selected 
+
+87. CACM-2377.html: 0.19457446
+A Hardware Architecture for Implementing Protection Rings
+
+Protection of computations and information
+is an important aspect of a computer utility.  In 
+a system which uses segmentation as a memor
+
+88. CACM-0406.html: 0.19209304
+The Use of Threaded Lists in Constructing a Combined
+ALGOL and Machine-Like Assembly Processor
+
+CACM January, 1961
+
+Evans Jr., A.
+Perlis, A. J.
+Van Zoeren, H.
+
+CA610108 JB March 17, 1978  1:2
+
+89. CACM-1527.html: 0.1893306
+A Grammar Base Question Answering Procedure
+
+The subject of this paper is a procedure for
+the automatic retrieval of certain segments of 
+stored information, either explicitly or implicitly repres
+
+90. CACM-2991.html: 0.18778704
+Improving the Access Time for Random Access Files
+
+Clustering in the key set is decreased by
+smoothing the key-to-address transformation, and 
+by adding shadow buckets to an open chaining file.  T
+
+91. CACM-1680.html: 0.18740638
+A General-Purpose Display Processing and Tutorial System
+
+ADEPT (A display-Expedited Processing and Tutorial)
+system is described.  This system was designed 
+to improve man-computer communications
+
+92. CACM-1194.html: 0.18609634
+Establishment of the ACM Repository and Principles
+of the IR System Applied to its Operation
+
+The history of the establishment of the ACM Repository
+at the Moore School, University of Pennsylvania
+
+93. CACM-3075.html: 0.18597947
+Fast Parallel Sorting Algorithms
+
+A parallel bucket-sort algorithm is presented
+that requires time O(log n) and the use of n 
+processors.  The algorithm makes use of a technique that
+requires mor
+
+94. CACM-1742.html: 0.18540506
+On the Design of Display Processors
+
+The flexibility and power needed in the data
+channel for a computer display are considered. 
+ To work efficiently, such a channel must have a sufficient number
+
+95. CACM-1530.html: 0.18354164
+The ML/I Macro Processor
+
+A general purpose macro processor called ML/I
+is described.  ML/I has been implemented on the 
+PDP-7 and I. Atlas 2 computers and is intended as a
+tool to allow users to
+
+96. CACM-2388.html: 0.18319824
+Optimizing Binary Trees Grown With a Sorting Algorithm
+
+Items can be retrieved from binary trees grown
+with a form of the Algorithm Quicksort in an 
+average time proportional to log n, where n is 
+
+97. CACM-2650.html: 0.18319824
+Order-n Correction for Regular Languages
+
+A method is presented for calculating a string
+B, belonging to a given regular language L, 
+which is "nearest" (in number of edit operations) to a
+given 
+
+98. CACM-2746.html: 0.18319824
+Efficient String Matching: An Aid to Bibliographic Search
+
+This paper describes a simple, efficient algorithm
+to locate all occurrences of any of a finite 
+number of keywords in a string of text. 
+
+99. CACM-2895.html: 0.18130824
+A Language for Formal Problem Specification
+
+A language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ The specifications are constrain ts on the order i
+
+100. CACM-2266.html: 0.18030451
+A Highly Parallel Algorithm for Approximating
+All Zeros of a Polynomial with Only Real Zeros
+
+An algorithm is described based on Newton's
+method which simultaneously approximates all zeros 
+of a 
+

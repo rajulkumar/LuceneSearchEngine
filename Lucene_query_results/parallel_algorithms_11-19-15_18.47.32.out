@@ -1,0 +1,887 @@
+1. CACM-2973.html: 1.0088185
+Sorting on a Mesh-Connected Parallel Computer
+
+Two algorithms are presented for sorting n^2
+elements on an n X n mesh-connected processor 
+array that require O(n) routing and comparison steps.
+ T
+
+2. CACM-3075.html: 0.9137456
+Fast Parallel Sorting Algorithms
+
+A parallel bucket-sort algorithm is presented
+that requires time O(log n) and the use of n 
+processors.  The algorithm makes use of a technique that
+requires mor
+
+3. CACM-2557.html: 0.8322328
+On the Time Required for a Sequence of Matrix Products
+
+This paper discusses the multiplication of conformable
+sequences of row vectors, column vectors, 
+and square matrices.  The minimum time req
+
+4. CACM-2266.html: 0.8261164
+A Highly Parallel Algorithm for Approximating
+All Zeros of a Polynomial with Only Real Zeros
+
+An algorithm is described based on Newton's
+method which simultaneously approximates all zeros 
+of a 
+
+5. CACM-3156.html: 0.8261164
+Computing Connected Components on Parallel Computers
+
+We present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time O(log2
+
+6. CACM-1601.html: 0.76765776
+Parallel Numerical Methods for the Solution of Equations
+
+Classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in qu
+
+7. CACM-0950.html: 0.68843037
+Parallel Methods for Integrating Ordinary Differential Equations
+
+This paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel co
+
+8. CACM-1468.html: 0.68843037
+Syntax-Directed Interpretation of Classes of Pictures
+
+A descriptive scheme for classes of pictures based
+on labeling techniques using parallel processing 
+algorithms was proposed by the author so
+
+9. CACM-2433.html: 0.594452
+Control Structures in Illiac IV Fortran
+
+As part of an effort to design and implement
+a Fortran compiler on the ILLIAC IV, an extended 
+Fortran, called IVTRAN, has been developed.  This language
+
+
+10. CACM-2570.html: 0.594452
+A Comparison of List Schedules for Parallel Processing Systems
+
+The problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially o
+
+11. CACM-2289.html: 0.5686563
+Cellular Arrays for the Solution of Graph Problems
+
+A cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits o
+
+12. CACM-1957.html: 0.5663724
+The List Set Generator: A Construct for Evaluating Set Expressions
+
+The list set generator is defined and algorithms
+for its use are given.  The list set generator is
+a construct which may be adde
+
+13. CACM-2838.html: 0.5339811
+Analysis of an Algorithm for Real Time Garbage Collection
+
+A real time garbage collection system avoids
+suspending the operations of a list processor 
+for the long times that garbage collection no
+
+14. CACM-2692.html: 0.48292387
+Reentrant Polygon Clipping
+
+A new family of clipping algorithms is described.
+ These algorithms are able to clip polygons 
+against irregular convex plane-faced volumes in three
+dimensions, removi
+
+15. CACM-0141.html: 0.4730892
+Some Thoughts on Parallel Processing
+
+CACM October, 1960
+
+Yarbrough, L. D.
+
+CA601007 JB March 20, 1978  8:16 PM
+
+141	5	141
+141	5	141
+141	5	141
+
+16. CACM-0392.html: 0.4730892
+Comment on A Paper on Parallel Processing
+
+CACM February, 1961
+
+Nekora, M. R.
+
+CA610206 JB March 17, 1978  12:58 AM
+
+392	5	392
+392	5	392
+392	5	392
+
+17. CACM-1302.html: 0.4730892
+Parallel Signaling Speeds for Data Transmission
+(Proposed American Stand ard)
+
+CACM March, 1965
+
+CA650305 JB March 7, 1978  6:08 PM
+
+1302	5	1302
+1302	5	1302
+1302	5	1302
+
+18. CACM-2114.html: 0.47197703
+A Formal System for Information Retrieval from Files
+
+A generalized file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding,
+
+19. CACM-2723.html: 0.47197703
+Multiprocessing Compactifying Garbage Collection
+
+Algorithms for a multiprocessing compactifying
+garbage collector are presented and discussed. 
+ The simple case of two processors, one performing 
+
+20. CACM-2182.html: 0.41395304
+Interrupt Driven Programming
+
+CACM July, 1971
+
+Zelkowitz, M.
+
+interrupts, supervisors, monitors, debugging, parallel
+processing, associative memories, microprogramming
+
+3.51 4.32 4.42
+
+CA71
+
+21. CACM-2685.html: 0.40970725
+The Parallel Execution of DO Loops
+
+Methods are developed for the parallel execution
+of different iterations of a DO loop.  Both 
+asynchronous multiprocessor computers and array computers
+are con
+
+22. CACM-2714.html: 0.39114887
+Merging with Parallel Processors
+
+Consider two linearly ordered sets A, B, |A|=m,
+|B|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously.  The paper presents an algorithm
+for mergin
+
+23. CACM-2896.html: 0.35849383
+An Exercise in Proving Parallel Programs Correct
+
+A parallel program, Dijkstra's on-the-fly garbage
+collector, is proved correct using a proof 
+method developed by Owicki.  The fine degree of in t
+
+24. CACM-1262.html: 0.35481688
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+
+Two statements are suggested which allow a programmer
+writing in a procedure-oriented language 
+to indicate sections of pr
+
+25. CACM-1367.html: 0.35481688
+Character Structure and Character Parity Sense
+for Parallel-by-Bit Data Communication in ASCII* 
+(Proposed American Standard)
+
+CACM September, 1966
+
+CA660912 JB March 2, 1978  4:26 PM
+
+1367	4	
+
+26. CACM-1795.html: 0.35481688
+Optimal Code for Serial and Parallel Computation
+
+CACM December, 1969
+
+Fateman, R. J.
+
+code optimization, sequencing of operations,
+detection of common subexpressions
+
+4.12
+
+CA691217 JB Feb
+
+27. CACM-1828.html: 0.35481688
+Synchronization in a Parallel-Accessed Data Base
+
+The following problem is considered:  Given
+a data base which can be manipulated simultaneously 
+by more than one process, what are the rules for 
+
+28. CACM-2700.html: 0.35481688
+Reduction: A Method of Proving Properties of Parallel Programs
+
+When proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible, i.e. th
+
+29. CACM-2007.html: 0.3525926
+Algorithms Policy/Revised August 1970
+
+CACM August, 1970
+
+CA700814 JB February 10, 1978  3:12 PM
+
+2007	5	2007
+2007	5	2007
+2007	5	2007
+
+30. CACM-0371.html: 0.34904885
+Remarks on Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+
+CACM March, 1961
+
+Wilkinson, J. H.
+
+CA610311 JB March 17, 1978  12:35 AM
+
+371	5	371
+371	5	371
+371	5	371
+
+31. CACM-1158.html: 0.33452457
+Program Structures for Parallel Processing
+
+Constructs for organizing and explicating parallel
+program segments are discussed as extensions 
+to ALGOL 60.  The constructs serve as meta-commands and
+
+32. CACM-2785.html: 0.30728042
+Glypnir-A Programming Language for Illiac IV
+
+GLYPNIR is one of the earliest existing languages
+designed for programming the Illiac IV computer. 
+The syntax of the language is based on ALGOL 60, b
+
+33. CACM-1796.html: 0.29918474
+Index by Subject to Algorithms, 1969
+
+CACM December, 1969
+
+This 1969 index is the first supplement to the
+Index by Subject to Algorithms, 1960 1968 (Comm. 
+ACM 11, 12 (Dec. 1968), 827 830).
+
+C
+
+34. CACM-2952.html: 0.29568073
+Functions Realizable with Word-Parallel Logical
+and Two's-Complement Addition Instructions
+
+CACM June, 1977
+
+Warren, H. S. Jr.
+
+Boolean functions, two's-complement, sign propagation
+
+4.0 6.32
+
+35. CACM-2895.html: 0.292709
+A Language for Formal Problem Specification
+
+A language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ The specifications are constrain ts on the order i
+
+36. CACM-1811.html: 0.2897068
+A Case Study in Programming for Parallel-Processors
+
+An affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficie
+
+37. CACM-0270.html: 0.28207406
+Techniques for Storage Allocation Algorithms 
+
+CACM October, 1961
+
+Kelley Jr., J. E.
+
+CA611011 JB March 16, 1978  12:50 PM
+
+270	5	270
+270	5	270
+270	5	270
+678	5	270
+270	6	270
+
+38. CACM-0804.html: 0.28207406
+Exponentiation of Series (Algorithms 134)
+
+CACM July, 1963
+
+Thacher Jr., H. C.
+
+CA630720 JB March 14, 1978  8:19 AM
+
+804	5	804
+804	5	804
+804	5	804
+
+39. CACM-1342.html: 0.28207406
+Transportation Problem (Algorithms 293 [H])
+
+CACM December, 1966
+
+Bayer, G.
+
+CA661207a JB March 2, 1978  2:30 PM
+
+1342	5	1342
+1342	5	1342
+1342	5	1342
+
+40. CACM-1660.html: 0.28207406
+Index By Subject To algorithms, 1960-1968
+
+CACM December, 1968
+
+CA681206 JB February 21, 1978  1:39 PM
+
+1660	5	1660
+1660	5	1660
+1660	5	1660
+
+41. CACM-1952.html: 0.28207406
+Index by Subject to Algorithms, 1970
+
+CACM December, 1970
+
+CA701211 JB February 9, 1978  2:50 PM
+
+1952	5	1952
+1952	5	1952
+1952	5	1952
+
+42. CACM-2325.html: 0.28207406
+Numerical Mathematics and Computer Science
+
+Numerical mathematics is viewed as the analysis
+of continuous algorithms.  Four of the components 
+of numerical mathematics are discussed.  These are: f
+
+43. CACM-2342.html: 0.2644649
+Interference Between Communicating Parallel Processes
+
+Various kinds of interference between communicating
+parallel processes have been examined by 
+Dijkstra, Knuth, and others.  Solutions have be
+
+44. CACM-2851.html: 0.2644649
+Formal Verification of Parallel Programs
+
+Two formal models for parallel computation
+are presented: an abstract conceptual model and 
+a parallel-program model.  The former model does not
+distingu
+
+45. CACM-2401.html: 0.25606704
+On Shrinking Binary Picture Patterns
+
+A parallel processing algorithm for shrinking
+binary patterns to obtain single isolated elements, 
+one for each pattern, is presented.  This procedure
+may be
+
+46. CACM-2865.html: 0.25606704
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+
+An axiomatic method for proving a number
+of properties of parallel programs is presented.  
+Hoare has given a set of axioms for pa
+
+47. CACM-3059.html: 0.25606704
+Models for Parallel Processing WIthin Programs:
+Application to CPU:I/O and I/O:I/O Overlap
+
+Approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed
+
+48. CACM-2080.html: 0.2508934
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+
+49. CACM-3073.html: 0.2508934
+Communicating Sequential Processes
+
+This paper suggests that input and output are
+basic primitives of programming and that parallel 
+composition of communicating sequential processes is
+a fundame
+
+50. CACM-1374.html: 0.2468148
+Evaluation of Determinant; Determinant
+Evaluation (Algorithms 41[F3]; 269[F3])
+
+CACM September, 1966
+
+Bergson, A.
+
+CA660909e JB March 23, 1978  4:29 PM
+
+1374	5	1374
+1374	5	1374
+1374	5	1374
+
+51. CACM-1851.html: 0.2468148
+Generator of Spanning Trees (Algorithms 354 [H])
+
+CACM September, 1969
+
+McIlroy, M. D.
+
+spanning trees, trees, graphs
+
+5.32
+
+CA690904 JB February 15, 1978  4:50 PM
+
+1851	5	1851
+1851	5	185
+
+52. CACM-1953.html: 0.2468148
+Exponential Integral Ei(x) (Algorithms 385 $S13))
+
+CACM December, 1970
+
+Redish, K. A.
+
+ANSI Fortran standard
+
+4.0 4.22
+
+CA701210 JB February 9, 1978  3:04 PM
+
+1953	5	1953
+1953	5	1953
+195
+
+53. CACM-2226.html: 0.2468148
+Further Evidence for the Analysis of Algorithms
+for the Zero-One Programming Problem
+
+The purpose of this note is to report computational
+experience additional to that recently 
+summarized by Gue
+
+54. CACM-2417.html: 0.2468148
+Four Combinatorial Algorithms [G6] (Algorithm A466)
+
+CACM November, 1973
+
+Ehrlich, G.
+
+permutations and combinations
+
+5.39
+
+CA731109 JB January 20, 1978  9:59 AM
+
+2044	4	2417
+2189	4	2417
+
+55. CACM-2725.html: 0.2468148
+A Comparison of Simulation Event List Algorithms (Corrigendum)
+
+CACM August, 1975
+
+Vaucher, J. C.
+Duval, P.
+
+CA750810 JB January 6, 1978  3:43 PM
+
+2725	5	2725
+2725	5	2725
+2725	5	2725
+
+56. CACM-2830.html: 0.2468148
+A Practitioner's Guide to Addressing Algorithms (Corrigendum)
+
+CACM September, 1976
+
+Severance, D. G.
+Duhne, R. A.
+
+CA760909 JB January 4, 1978  8:43 AM
+
+2830	5	2830
+2830	5	2830
+2830	5	2830
+
+57. CACM-1551.html: 0.2442833
+On Compiling Algorithms for Arithmetic Expressions
+
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler 
+for a HITAC-5020 computer having n accumulator
+
+58. CACM-1569.html: 0.2365446
+Implementing Phrase-Structure Productions in PL/I
+
+A method is described for implementing the productions
+of a context-free phrase structure grammar 
+in a PL/I procedure whose structure and statem
+
+59. CACM-3044.html: 0.2365446
+A Note on Conditional Expressions
+
+Evaluation of a conditional expression may succeed
+even when the "deciding predicate" diverges 
+and the alternatives are records (or nodes) whose fields have dif
+
+60. CACM-2884.html: 0.23321806
+Permutation Enumeration: Four New Permutation Algorithms
+
+Classical permutation enumeration algorithms encounter
+special cases requiring additional computation 
+every nth permutation when generati
+
+61. CACM-2902.html: 0.21591799
+Dynamic Memory Allocation in Computer Simulation
+
+This paper investigates the performance of
+35 dynamic memory allocation algorithms when used 
+to service simulation programs as represented by 18
+
+62. CACM-2950.html: 0.21591799
+A Unifying Approach to Scheduling
+
+This paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  
+
+63. CACM-3166.html: 0.21591799
+Computing Standard Deviations: Accuracy
+
+Four algorithms for the numerical computation
+of the standard deviation of (unweighted) sampled data
+are analyzed.  Two of the algorithms are well-known in
+
+64. CACM-1658.html: 0.21155554
+Analysis of Algorithms for the Zero-One Programming Problem
+
+This paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming problem.  Computatio
+
+65. CACM-2025.html: 0.21155554
+Student's t-Distribution; Jacobi Polynomials;
+Modified Romberg Quadrature;
+Factorial Analysis of Variance; (Algorithms 332,344,351,359) 
+
+CACM July, 1970
+
+Sale, A. H. J.
+
+Fortran standards
+
+
+
+66. CACM-2222.html: 0.21155554
+Comment on London's Certification of Algorithm 245
+
+CACM January, 1971
+
+Redish, K. A.
+
+proof of algorithms, debugging, certification,
+metatheory,  sorting, in-place sorting
+
+4.42 4.49 5.24 5.
+
+67. CACM-2362.html: 0.21155554
+Linear Equation Solver [F4] (Algorithm A423)
+
+CACM April, 1972
+
+Moler, C. B.
+
+matrix algorithms, linear equations, Fortran,
+paged memory, virtual memory, array processing
+
+4.22 4.32 5.14
+
+C
+
+68. CACM-2505.html: 0.21155554
+Reflection-Free Permutations, Rosary Permutations,
+and Adjacent Transposition Algorithms
+
+CACM May, 1973
+
+Roy, M. K.
+
+permutation, permutation generation, scheduling, combinatorial analysis
+
+
+
+69. CACM-2863.html: 0.21155554
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+
+A criterion for comparing variable space page
+replacement algorithms is presented.  An optimum 
+page replacement algorithm, called VMIN, 
+
+70. CACM-2942.html: 0.21155554
+An Algol-Based Implementation of SNOBOL 4 Patterns
+
+CACM July, 1977
+
+Brownlee, J. N.
+
+patterns SNOBOL 4, pattern matching, string processing,
+pattern implementation, algorithms in Pascal
+
+4.2
+
+71. CACM-3061.html: 0.21155554
+Simulations of Dynamic Sequential Search Algorithms
+
+None
+
+CACM September, 1978
+
+Tenenbaum, A.
+
+Searching, list processing, sequential
+searching, dynamic reordering, simulation 
+
+3.74 8.1
+
+
+72. CACM-2740.html: 0.20907786
+A Large Semaphore Based Operating System
+
+The paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes.  The processes synchronize by
+means
+
+73. CACM-1008.html: 0.20697652
+Scheduling Meetings with a Computer
+
+Computer scheduling of papers as it was developed
+for the 1960 meeting of the Federation of 
+American Societies for Experimental Biology (FASEB) is described.
+
+74. CACM-1200.html: 0.20697652
+On Reversible Subroutines and Computers that Run Backwards
+
+A computer design is describe which permits
+subroutines to be executed backward as well as 
+forward, either with their instructions unch
+
+75. CACM-1380.html: 0.20697652
+SIMULA-an ALGOL-Based Simulation Language
+
+This paper is an introduction to SIMULA, a
+programming language designed to provide a systems 
+analyst with unified concepts which facilitate the
+concis
+
+76. CACM-2727.html: 0.20697652
+Multiple Byte Processing with Full-Word Instructions
+
+A method is described which allows parallel
+processing of packed data items using only ordinary 
+full-word computer instructions, even though 
+
+77. CACM-1747.html: 0.20485362
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  Thr
+
+78. CACM-1846.html: 0.20485362
+On Simulating Networks of Parallel Processes
+in Which Simultaneous Events May Occur
+
+Some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional d
+
+79. CACM-2175.html: 0.20485362
+Subexpression Ordering in the Execution of Arithmetic Expressions
+
+An arithmetic expression can often be broken
+down into its component subexpressions.  Depending 
+on the hardware environment in w
+
+80. CACM-2195.html: 0.20485362
+On the Optimal Detection of Curves in Noisy Pictures
+
+A technique for recognizing systems of lines
+is presented.  In this technique the heuristic 
+of the problem is not embedded in the recognition
+
+81. CACM-1873.html: 0.19945648
+Accelerating LP Algorithms
+
+It is shown how a novel method for computing
+(related) inner products can accelerate the pricing 
+phase of LP algorithms.  Other LP applications are indicated.
+
+CACM 
+
+82. CACM-2272.html: 0.19945648
+Sorting by Natural Selection
+
+A family of sorting algorithms is proposed,
+the members of which make fuller use of the memory 
+space and thus yield longer sorted strings.  Extensive
+simulation res
+
+83. CACM-1924.html: 0.19710524
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+
+Matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory 
+
+84. CACM-2146.html: 0.19710524
+Optimizing the Polyphase Sort
+
+Various dispersion algorithms for the polyphase
+sorting procedure are examinedhe optimum 
+algorithm based on minimizing the total number of unit
+strings read is dis
+
+85. CACM-2273.html: 0.19710524
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+
+Two algorithms for generating computer programs
+from decision tables are described.  The algorithms 
+allow handling limited ent
+
+86. CACM-2283.html: 0.19710524
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays. 
+
+87. CACM-2903.html: 0.19710524
+Improving Programs by the Introduction of Recursion
+
+A new technique of program transformation,
+called "recursion in troduction," is described and 
+applied to two algorithms which solve pattern ma
+
+88. CACM-3006.html: 0.19710524
+Anomalies with Variable Partition Paging Algorithms
+
+Five types of anomalous behavior which may
+occur in paged virtual memory operating systems 
+a redefined.  One type of anomaly, for example, con
+
+89. CACM-1392.html: 0.18321247
+Experience with FORMAC Algorithm Design
+
+Various facets of the design and implementation
+of mathematical expression manipulation algorithms 
+are discussed.  Concrete examples are provided by the
+
+
+90. CACM-2490.html: 0.18321247
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+
+Efficient algorithms are presented for partitioning
+a graph into connected components, biconnected 
+components and simple paths.  
+
+91. CACM-2679.html: 0.18321247
+Some Performance Tests of "quicksort" and Descendants
+
+Detailed performance evaluations are presented
+for six ACM algorithms: quicksort (No. 64), 
+Shellsort (No. 201), stringsort (No. 207), "TREES
+
+92. CACM-2997.html: 0.18321247
+Convex Hulls of Finite Sets of Poin ts in Two and Three Dimensions
+
+The convex hulls of sets of n poin ts in two
+and three dimensions can be determined with O(n 
+log n) operations.  The presented 
+
+93. CACM-1341.html: 0.17740844
+Levels of Computer Systems
+
+In building current computer systems, we tend
+to break them down into "levels" of control, 
+command and communication; in using the system, we break
+our problems down 
+
+94. CACM-1471.html: 0.17740844
+Programming Semantics for Multiprogrammed computations
+
+The semantics are defined for a number of meta-instructions
+which perform operation essential 
+to the writing of programs in multiprogrammed
+
+95. CACM-1536.html: 0.17740844
+Dynamic Computation of Derivatives
+
+It is shown how Wengert's procedure for computation
+of derivatives can be implemented conveniently 
+by use of compiler-generated complex addition, subtraction,
+
+96. CACM-1554.html: 0.17740844
+A Computer Technique for Displaying n-Dimensional Hyperobjects
+
+A digital computer and automatic plotter have
+been used to generate three-dimensional stereoscopic 
+movies of the three-dimensional 
+
+97. CACM-1603.html: 0.17740844
+A Multiprogramming Monitor for Small Machines
+
+INT, a combination hardware/software monitor
+designed to control a wide variety of real-time 
+input/output devices, is described.  The simple hardwar
+
+98. CACM-1960.html: 0.17740844
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+
+The main design principles of the multiaccess system ESOPE are described.
+Emphasis is placed on basic ideas underlying the d
+
+99. CACM-2376.html: 0.17740844
+Synchronization of Communicating Processes
+
+Formalization of a well-defined synchronization
+mechanism can be used to prove that concurrently 
+running processes of a system communicate correctly.
+
+
+100. CACM-2514.html: 0.17740844
+An Array Grammar Programming System
+
+A package of Fortran programs has been developed
+that permits a user to interactively design 
+and test array grammars.  The user can control the rule
+selectio
+

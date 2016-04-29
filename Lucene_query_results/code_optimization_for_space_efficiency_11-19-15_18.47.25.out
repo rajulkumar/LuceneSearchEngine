@@ -1,0 +1,850 @@
+1. CACM-1795.html: 0.64332205
+Optimal Code for Serial and Parallel Computation
+
+CACM December, 1969
+
+Fateman, R. J.
+
+code optimization, sequencing of operations,
+detection of common subexpressions
+
+4.12
+
+CA691217 JB Feb
+
+2. CACM-2495.html: 0.5975083
+Adapting Optimal Code Generation for Arithmetic
+Expressions to the Instruction Sets Available 
+on Present-Day Computers
+
+CACM June, 1973
+
+Stockhausen, P. F.
+
+arithmetic expressions, code gener
+
+3. CACM-1947.html: 0.5535952
+Object code Optimization
+
+Methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency.
+ Dominance
+
+4. CACM-2748.html: 0.528035
+Indirect Threaded Code
+
+An efficient arrangement for interpretive code
+is described.  It is related to Bell's notion 
+of threaded code but requires less space and is more
+amenable to machine inde
+
+5. CACM-2559.html: 0.4950907
+The Reallocation of Hash-Coded Tables
+
+When the space allocation for a hash-coded table
+is altered, the table entries must be rescattered 
+over the new space.  A technique for accomplishing
+this 
+
+6. CACM-1886.html: 0.44647112
+Generation of Optimal Code for Expressions via Factorization
+
+Given a set of expressions which are to be
+compiled, methods are presented for increasing the 
+efficiency of the object code produced 
+
+7. CACM-2897.html: 0.43843484
+A Case Study of a New Code Generation Technique for Compilers
+
+Recent developments in optimizing techniques
+have allowed a new design for compilers to emerge. 
+ Such a compiler translates the pars
+
+8. CACM-2904.html: 0.38659886
+An Algorithm for Reduction of Operator Strength
+
+A simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  Se
+
+9. CACM-3080.html: 0.38377044
+Proving the Correctness of Heuristically Optimized Code 
+
+A system for proving that programs written
+in a high level language are correctly translated 
+to a low level language is described.  A pri
+
+10. CACM-2491.html: 0.37791464
+Threaded Code
+
+The concept of "threaded code" is presented as
+an alternative to machine language code.  Hardware 
+and software realizations of it are given.  In software
+it is realized as interpr
+
+11. CACM-2680.html: 0.3617208
+Optimal Space Allocation on Disk Storage Devices
+
+When the amount of space required for file storage
+exceeds the amount which can be kept on-line, 
+decisions must be made as to which files are to 
+
+12. CACM-2537.html: 0.3568571
+Common Phrases and Minimum-Space Text Storage
+
+A method for saving storage space for text
+strings, such as compiler diagnostic messages, is 
+described.  The method relies on hand selection of a
+s
+
+13. CACM-3171.html: 0.34712863
+Line Numbers Made Cheap
+
+A technique is described for run-time line number administration
+to be used for implementations of high level languages.  Under suitable
+circumstances, this method require
+
+14. CACM-2464.html: 0.3463252
+The Complex Method for Constrained Optimization [E4] (Algorithm A454)
+
+CACM August, 1973
+
+Richardson, J. A.
+Kuester, J. L.
+
+optimization, constrained optimization, Box's algorithm
+
+5.41
+
+CA
+
+15. CACM-1195.html: 0.33868977
+UPLIFTS-University of Pittsburgh Linear File Tandem System
+
+A series of computer programs has been developed
+and is now operational for processing the 
+National Aeronautics and Space Administratio
+
+16. CACM-2253.html: 0.32735753
+Index Ranges for Matrix Calculi
+
+The paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix
+
+17. CACM-2944.html: 0.3262091
+Shifting Garbage Collection Overhead to Compile Time
+
+This paper discusses techniques which enable automatic
+storage reclamation overhead to be partially 
+shifted to compile time.  The paper assum
+
+18. CACM-2929.html: 0.31939238
+An Analysis of Inline Substitution for a Structured Programming Language
+
+An optimization technique known as inline substitution
+is analyzed.  The optimization consists 
+of replacing a procedure i
+
+19. CACM-1655.html: 0.30841085
+Code Extension Procedures for Information
+Interchange* (Proposed USA Standard)
+
+CACM December, 1968
+
+standard code, code, information interchange, characters,
+shift out, shift in, escape, data l
+
+20. CACM-2716.html: 0.28945735
+Optimizing the Performance of a Relational Algebra Database Interface
+
+An approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ The basic idea is to emp
+
+21. CACM-1564.html: 0.2743894
+Description of Basic Algorithm in DETAB/65 Preprocessor
+
+The basic algorithm for the conversion of decision
+tables into COBOL code is contained in the
+generator portion of the DETAB/65 preprocesso
+
+22. CACM-2423.html: 0.2743894
+A Parser-Generating System for Constructing Compressed Compilers
+
+This paper describes a parser-generating system
+(PGS) currently in use on the CDC-6500 computer 
+at Purdue University.  The PGS is
+
+23. CACM-2374.html: 0.27298835
+A Study of Storage Partitioning Using a Mathematical Model of Locality
+
+Both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  The storage requi
+
+24. CACM-3005.html: 0.26183242
+Implications of Structured Programming for Machine Architecture
+
+Based on an empirical study of more than 10,000
+lines of program text written in a GOTO-less 
+language, a machine architecture spec
+
+25. CACM-2033.html: 0.26124457
+Space/Time Trade-offs in Hash Coding with Allowable Errors
+
+In this paper trade-offs among certain computational factors
+a given set of messages.  Two new hash-coding methods are examined
+and comp
+
+26. CACM-1651.html: 0.24911706
+An Interpretive Input Routine for Linear Programming
+
+In this descriptive article an input code
+is presented which greatly simplifies data input 
+to any linear programming solution routine, for su
+
+27. CACM-2611.html: 0.24534898
+The Complex Method for Constrained Optimization (Algorithm R454)
+
+CACM August, 1974
+
+Shere, K. D.
+
+CA740813 JB January 17, 1978  9:28 AM
+
+2611	5	2611
+2611	5	2611
+2611	5	2611
+
+28. CACM-2858.html: 0.24334013
+A Process for the Determination of
+Addresses in Variable Length Addressing
+
+An algorithm is presented for the assignment
+of instruction addresses and formats under the 
+following conditions: (1) 
+
+29. CACM-3053.html: 0.24334013
+Packed Scatter Tables
+
+Scatter tables for open addressing benefit
+from recursive entry displacements, cutoffs for 
+unsuccessful searches, and auxiliary cost functions.  Compared
+with conventional
+
+30. CACM-3054.html: 0.24068223
+Implementing Quicksort Programs
+
+This paper is a practical study of how to
+implement the Quicksort sorting algorithm and its 
+best variants on real computers, including how to apply
+various code 
+
+31. CACM-0267.html: 0.24038294
+Some Proposals for Improving the Efficiency of ALGOL 60
+
+CACM November, 1961
+
+Wilkes, M. V.
+
+CA611101 JB March 15,1978  11:01 PM
+
+267	4	267
+1139	4	267
+1141	4	267
+1215	4	267
+1223	4	267
+164
+
+32. CACM-0230.html: 0.23872676
+A Proposal for Character Code Compatibility
+
+CACM February, 1960
+
+Bemer, R. W.
+
+CA600202 JB March 22, 1978  2:25 PM
+
+230	5	230
+230	5	230
+230	5	230
+333	5	230
+230	6	230
+
+33. CACM-0797.html: 0.23872676
+American Standard Code for Information Interchange
+
+CACM August, 1963
+
+CA630801 JB March 13, 1978  8:55 PM
+
+1084	5	797
+797	5	797
+797	5	797
+797	5	797
+868	6	797
+603	6	797
+644	6	797
+669	6	79
+
+34. CACM-1064.html: 0.23872676
+Perforated Tape Code for Information
+Interchange (Proposed American Standard)
+
+CACM June, 1964
+
+CA640603 JB March 9, 1978  9:46 PM
+
+1064	5	1064
+1064	5	1064
+1064	5	1064
+
+35. CACM-1289.html: 0.23872676
+Proposed Revised American Standard Code for Information Interchange
+
+CACM April, 1965
+
+CA650402 JB March 7, 1978  4:03 PM
+
+1289	5	1289
+1289	5	1289
+1289	5	1289
+
+36. CACM-2856.html: 0.23869252
+The Synthetic Approach to Decision Table Conversion
+
+Previous approaches to the problem of automatically
+converting decision tables to computer 
+programs have been based on decomposition.  At any
+
+37. CACM-2433.html: 0.23437612
+Control Structures in Illiac IV Fortran
+
+As part of an effort to design and implement
+a Fortran compiler on the ILLIAC IV, an extended 
+Fortran, called IVTRAN, has been developed.  This language
+
+
+38. CACM-1234.html: 0.23171572
+The Structure of Yet Another ALGOL Compiler
+
+A high-speed "top down" method of syntax analysis
+which completely eliminates "back-up" of 
+the source string has been implemented in a convenient
+mac
+
+39. CACM-2701.html: 0.22340249
+A Fast and Usually Linear Algorithm for Global
+Flow Analysis (Abstract only--Complete paper JACM 
+23,1 January, 1976)
+
+A new algorithm for global flow analysis on
+reducible graphs is presented. T
+
+40. CACM-1901.html: 0.22280307
+Dynamic Space-Sharing in Computer Systems
+
+A formalization of relationships between space-shading
+program behavior, and processor efficiency 
+in computer systems is presented.  Concepts of value a
+
+41. CACM-0066.html: 0.22071782
+A Proposal for a Generalized Card Code for 256 Characters
+
+CACM September, 1959
+
+Bemer, R. W.
+
+CA590903 JB March 22, 1978  4:50 PM
+
+66	5	66
+66	5	66
+66	5	66
+
+42. CACM-1757.html: 0.21100664
+Data Code for Calendar Date for Machine-to-Machine
+Data Interchange* (Proposed USA Standard)
+
+CACM April, 1968
+
+USA Standard, data code, calendar date, machine-to-machine
+data interchange, recor
+
+43. CACM-1542.html: 0.2106169
+A Microprogrammed Implementation of EULER on IBM System/360 Model 30
+
+An experimental processing system for the algorithmic
+language EULER has been implemented in 
+microprogramming on an IBM Syste
+
+44. CACM-2133.html: 0.21029912
+Algorithm for the Assignment Problem
+(Rectangular Matrices) [H] (Algorithm 415)
+
+CACM December, 1971
+
+Bourgeois, F.
+Lassalle, J. C.
+
+operations research, optimization theory,
+assignment probl
+
+45. CACM-1275.html: 0.20888591
+Code Structures for Protection and Manipulation
+of Variable Length Items (Corrigendum)
+
+CACM April, 1965
+
+Ramamoorthy, C. V.
+
+CA650416 JB March 7, 1978  3:31 PM
+
+1275	5	1275
+1275	5	1275
+127
+
+46. CACM-1414.html: 0.20888591
+Twelve-Row Punched-Card Code for Information
+Interchange* (Proposed American Standard)
+
+CACM June, 1966
+
+CA660607 JB March 3, 1978  8:39 AM
+
+1414	5	1414
+1414	5	1414
+1414	5	1414
+
+47. CACM-2835.html: 0.20701885
+Recursion Analysis for Compiler Optimization
+
+A relatively simple method for the detection
+of recursive use of procedures is presented for 
+use in compiler optimization.  Implementation considerat
+
+48. CACM-0149.html: 0.20604253
+A Decision Rule for Improved Efficiency in Solving
+Linear Programming Problems with the Simplex 
+Algorithm
+
+CACM September, 1960
+
+Dickson, J. C.
+Frederick, F. P.
+
+CA600908 JB March 20, 1978  
+
+49. CACM-1670.html: 0.20255528
+Correspondences of 8-Bit and Hollerith Codes for
+Computer Environments (A USASI Tutorial Standard)
+
+CACM November, 1968
+
+USA standard, card code, punched card, punched card
+code, hole-patterns, 
+
+50. CACM-1992.html: 0.20255528
+Comment on Bell's Quadratic Quotient Method for Hash Code Searching
+
+CACM September, 1970
+
+Lamport, L.
+
+hashing, hash code, scatter storage, calculated address,
+clustering, search, symbol table
+
+51. CACM-2722.html: 0.19925252
+Multidimensional Binary Search Trees Used for Associative Searching
+
+This paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) a
+
+52. CACM-2745.html: 0.19869836
+A Linear Space Algorithm for Computing Maximal Common Subsequences
+
+The problem of finding a longest common subsequence
+of two strings has been solved in quadratic 
+time and space.  An algorithm i
+
+53. CACM-2734.html: 0.19712423
+On the External Storage Fragmentation Produced
+by First-Fit and Best-Fit Allocation Strategies
+
+Published comparisons of the external fragmentation
+produced by first-fit and best-fit memory 
+allo
+
+54. CACM-2530.html: 0.18242602
+An Algorithm for Extracting Phrases in
+a Space-Optimal Fashion [Z] (Algorithm A444)
+
+CACM March, 1973
+
+Wagner, R. A.
+
+information retrieval, coding, text compression
+
+3.70 5.6
+
+CA730309 JB 
+
+55. CACM-3129.html: 0.17914577
+Optimal Storage Allocation for Serial Files
+
+A computer system uses several serial files.  The files reside on a 
+direct-access storage device in which storage space is limited.  Records are 
+adde
+
+56. CACM-1065.html: 0.17904507
+Bit Sequencing of the American Standard Code for
+Information Interchange (ASCII) in Serial-by-Bit 
+Data Transmission (Proposed American Standard)
+
+CACM June, 1964
+
+CA640602 JB March 9, 1978  9:4
+
+57. CACM-2586.html: 0.17904507
+Adapting Optimal Code Generation for Arithmetic
+Expressions to the Instruction Sets Available 
+on Present-Day Computers (Errata)
+
+CACM October, 1974
+
+Stockhausen, P. F.
+
+CA741012 JB January 16
+
+58. CACM-0048.html: 0.17705749
+Shift-Register Code for Indexing Applications
+
+In this communication the use of a shift-register
+code with n = 10 is described for calling 
+64 wireless telemetering stations in a fixed cyclical or
+
+59. CACM-1362.html: 0.17705749
+Code Extension in ASCII* (An ASA Tutorial)
+
+The American Standard Code for Information
+Interchange (ASCII) contains a number of control 
+characters associated with the principle of code extension,
+
+60. CACM-2711.html: 0.1756262
+A Vector Space Model for Automatic Indexing
+
+In a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming pattern
+
+61. CACM-2078.html: 0.1752548
+Representations for Space Planning
+
+Problems involving the arrangement of objects in two- 
+or three-space where the objective function primarily consists
+of derivatives of the distance between obj
+
+62. CACM-1807.html: 0.17389299
+Optimization of Expressions in Fortran
+
+A method of optimizing the computation of
+arithmetic and indexing expressions of a Fortran 
+program is presented.  The method is based on a linear
+analysis
+
+63. CACM-1223.html: 0.16849889
+High Speed Compilation of Efficient Object Code
+
+A three-pass compiler with the following properties
+is briefly described:  The last two passes 
+scan an intermediate language produced by the prece
+
+64. CACM-1235.html: 0.16849351
+A Stochastic Approach to the Grammatical Coding of English
+
+A computer program is described which will
+assign each word in an English text to its form 
+class or part of speech.  The program operat
+
+65. CACM-3083.html: 0.16805974
+Pseudochaining in Hash Tables
+
+This paper presents pseudochaining as a new
+collision-resolution method.  Pseudochaining is 
+half way between open addressing and chaining.  It owes
+its name to the
+
+66. CACM-1369.html: 0.16523181
+Half Rotations in N-Dimensional Euclidean Space
+
+An iterative procedure is described for determining
+half rotations in n-dimensional Euclidean 
+space. The method is a variant of the cyclic Jacobi
+
+67. CACM-1204.html: 0.15765558
+Character Structure and Character Parity Sense for
+Serial-by-Bit Data Communication in the American 
+Standard Code for Information Interchange (Proposed American Standard)
+
+CACM September, 1965
+
+
+68. CACM-2645.html: 0.15531684
+Two Languages for Estimating Program Efficiency
+
+Two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ The program whose efficiency one wishes to esti
+
+69. CACM-2892.html: 0.15143192
+A Study of Line Overhead in the Arpanet
+
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered. 
+ The source of this over head is separated into various
+le
+
+70. CACM-1708.html: 0.14958504
+A Note on the Efficiency of a LISP Computation in a Paged Machine
+
+The problem of the use of two levels of storage
+for programs is explored in the context of 
+a LISP system which uses core memory 
+
+71. CACM-0093.html: 0.14920424
+From Formulas to Computer Oriented Language
+
+A technique is shown for enabling a computer
+to translate simple algebraic formulas into a 
+three address computer code.
+
+CACM March, 1959
+
+Wegstei
+
+72. CACM-2389.html: 0.14902377
+Preliminary Report on a System for General Space Planning
+
+A computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space
+
+73. CACM-2863.html: 0.14902377
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+
+A criterion for comparing variable space page
+replacement algorithms is presented.  An optimum 
+page replacement algorithm, called VMIN, 
+
+74. CACM-1652.html: 0.14447135
+A Code for Non-numeric Information Processing
+Applications in Online Systems
+
+A code has been specifically designed to simplify
+the internal information processing operations 
+within an online co
+
+75. CACM-1676.html: 0.14430216
+The LRLTRAN Compiler
+
+Extensive software problems confront an organization
+which possesses a number of different 
+computers and which frequently acquires new ones. 
+To maintain cohesion, a system
+
+76. CACM-2836.html: 0.14363311
+Weighted Derivation Trees
+
+The nodes of a weighted derivation tree are associated
+with weighting functions over the vocabulary 
+of a context-free grammar.  An algorithm is presented
+for construct
+
+77. CACM-2524.html: 0.1414585
+Some Approaches to Best-Match File Searching
+
+The problem of searching the set of keys in
+a file to find a key which is closest to a given 
+query key is discussed.  After "closest," in terms of
+a
+
+78. CACM-1465.html: 0.14062326
+Program Translation Viewed as a General Data Processing Problem
+
+Efficiency dictates that the overall effectiveness
+of a compiler be increased by all means 
+available.  For a compiler to have a su
+
+79. CACM-2126.html: 0.13736169
+Experience with an Extensible Language
+
+An operational extensible language system is described.
+The system and its base language are appraised with 
+respect to efficiency, flexibility, and utility
+
+80. CACM-1523.html: 0.13666514
+SHARER, a Time Sharing System for the CDC 6600
+
+A time sharing system embedded within the
+standard batch processing system for the CDC 6600 
+is described.  The system is general purpose and file-b
+
+81. CACM-2230.html: 0.13616589
+A Language for Treating Geometric Patterns in a Two-dimensional space
+
+In this paper CADEP, a problem-oriented language
+for positioning geometric patterns in a two-dimensional 
+space, is presented
+
+82. CACM-1331.html: 0.13049494
+Code Structures for Protection and Manipulation of Variable-Length Items
+
+When items are made up of a variable number
+of characters, each containing the same number 
+of bits, certain control infor
+
+83. CACM-2498.html: 0.12899466
+Minimizing Wasted Space in Partitioned Segmentation
+
+A paged virtual memory system using a finite
+number of page sizes is considered.  Two algorithms 
+for assigning pages to segments are discussed
+
+84. CACM-0794.html: 0.12837844
+A List-Type Storage Technique for Alphameric Information
+
+A method which is economic in terms of space and
+time is proposed for the storage and manipulation 
+of character strings of arbitrary leng
+
+85. CACM-2344.html: 0.12832725
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+
+A simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to 
+
+86. CACM-2950.html: 0.12738775
+A Unifying Approach to Scheduling
+
+This paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  
+
+87. CACM-0124.html: 0.12612447
+An Algorithm for the Assignment Problem
+
+The assignment problem is formulated and briefly
+discussed.  An efficient algorithm for its 
+solution is presented in ALGOL code.  An empirical relation
+b
+
+88. CACM-1551.html: 0.12612447
+On Compiling Algorithms for Arithmetic Expressions
+
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler 
+for a HITAC-5020 computer having n accumulator
+
+89. CACM-1270.html: 0.12610742
+On ALGOL Education: Automatic Grading Programs
+
+Two ALGOL grader programs are presented for
+the computer evaluation of student ALGOL programs. 
+One is for a beginner's program; it furnishes random
+
+90. CACM-1352.html: 0.12610742
+Automatic Integration of a Function with a Parameter
+
+Two efficient methods for automatic numerical
+integration are Romberg integration and adaptive 
+Simpson integration.  For integrands of the fo
+
+91. CACM-1429.html: 0.12610742
+Matrix Reduction Using the Hungarian Method
+For The Generation of School Timetables
+
+The application of Kuhn's Hungarian Method
+to the problem of matrix reduction as needed in 
+Gotlieb's method f
+
+92. CACM-2365.html: 0.12610742
+Matrix Computations with Fortran and Paging
+
+The efficiency of conventional Fortran programs
+for matrix computations can often be improved 
+by reversing the order of nested loops.  Such modificati
+
+93. CACM-2816.html: 0.12418647
+Optimal Reorganization of Distributed Space Disk Files
+
+In most database organizations, the cost of accessing
+the database will increase due to structural 
+changes caused by updates and insertions
+
+94. CACM-2249.html: 0.12392385
+A Comparison of Multivariate Normal Generators
+
+Three methods for generating outcomes on multivariate
+normal random vectors with a specified 
+variance-covariance matrix are presented.  A compariso
+
+95. CACM-1030.html: 0.1231686
+Techniques for the Simulation of Computer Logic
+
+The simulation of a digital computer is an
+integral part of most computer design automation 
+systems.  The evaluation of the Boolean functions whic
+
+96. CACM-0693.html: 0.12267449
+An Extension of Fibonaccian Search To Several Variables
+
+A technique which uses Fibonaccian search
+concepts has been developed to solve optimization 
+problems involving unimodal functions of sever
+
+97. CACM-1786.html: 0.121533155
+An Improved Hash Code for Scatter Storage
+
+Introduced is a hash coding method based on
+fixed-point division rather than multiplication 
+or logical operations.  This new method allows the
+hash tab
+
+98. CACM-3175.html: 0.121533155
+Breaking Substitution Ciphers Using a Relaxation Algorithm
+
+Substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  In
+
+99. CACM-3064.html: 0.12141173
+Event Manipulation for Discrete Simulations
+Requiring Large Numbers of Events
+
+The event-manipulation system presented here consists of
+two major parts.  The first part addresses 
+the familiar pr
+
+100. CACM-0164.html: 0.12103897
+A Short Study of Notation Efficiency
+
+CACM August, 1960
+
+Smith Jr., H. J.
+
+CA600802 JB March 20, 1978  9:02 PM
+
+205	4	164
+210	4	164
+214	4	164
+1982	4	164
+398	4	164
+642	4	164
+669	4	164
+10
+
